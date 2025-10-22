@@ -1,0 +1,6 @@
+vectorbt
+pandas
+pandas-ta
+plotly
+openpyxl
+numpy
